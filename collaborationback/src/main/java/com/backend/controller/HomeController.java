@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class HomeController {
-	@RequestMapping("/")
+	@RequestMapping("testing")
 	public String index()
 	{
 		System.out.println(" I am from controller");

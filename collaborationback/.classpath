@@ -29,5 +29,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="F:/Softwares/apache-tomcat-8.0.33-windows-x64/apache-tomcat-8.0.33/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/apache-tomcat-8.0.33-windows-x64/apache-tomcat-8.0.33/lib/ojdbc14.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
